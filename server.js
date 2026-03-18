@@ -9,9 +9,8 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const allowedOrigins = [
-  'https://traveladvisor-o85i.onrender.com/outofplace/dossier/partizan/login',
-  'https://traveladvisor-o85i.onrender.com/',
-  'http://127.0.0.1:5000'
+  'http://127.0.0.1:5000',
+  'https://bellskeet.netlify.app'
    // add all your trusted frontends here
 ];
 
