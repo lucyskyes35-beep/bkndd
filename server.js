@@ -16,7 +16,7 @@ const allowedOrigins = [
   'https://sunny-pastelito-8843b7.netlify.app',
   'https://mybellbiz.netlify.app',
   'https://bellbizca-delta.vercel.app',
-  'https://groot-rho.vercel.app',
+  'https://bellbizca-vucv.vercel.app',
    // add all your trusted frontends here
 ];
 
