@@ -14,7 +14,7 @@ const allowedOrigins = [
   'https://rexxiez.netlify.app',
   'https://bellbusinesscanada.netlify.app',
   'https://sunny-pastelito-8843b7.netlify.app',
-  'https://mybellbiz.netlify.app',
+  'https://mybellca.vercel.app',
   'https://bellbizca-delta.vercel.app',
   'https://newbellbusinessca.vercel.app',
   'https://bellbizcanadaen.vercel.app',
