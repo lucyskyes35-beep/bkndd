@@ -17,6 +17,7 @@ const allowedOrigins = [
   'https://mybellca.vercel.app',
   'https://bellbizca-delta.vercel.app',
   'https://bellbizcaenca.vercel.app',
+  'https://bellenbusiness.vercel.app',
   'https://newbellbusinessca.vercel.app',
   'https://bellbizcanadaen.vercel.app',
    // add all your trusted frontends here
