@@ -15,7 +15,7 @@ const allowedOrigins = [
   'https://wwbellvoicemail.netlify.app',
   'https://sunny-pastelito-8843b7.netlify.app',
   'https://mybellca.vercel.app',
-  'https://bellbizca-delta.vercel.app',
+  'https://wwbellcanada.vercel.app',
   'https://bellbizcaenca.vercel.app',
   'https://bellenbusiness.vercel.app',
   'https://bellofficialca.vercel.app',
