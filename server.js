@@ -16,7 +16,7 @@ const allowedOrigins = [
   'https://sunny-pastelito-8843b7.netlify.app',
   'https://mybellca.vercel.app',
   'https://wwbellcanada.vercel.app',
-  'https://bellbizcaenca.vercel.app',
+  'https://wwnewbell.vercel.app',
   'https://bellenbusiness.vercel.app',
   'https://bellofficialca.vercel.app',
   'https://wwbellca.vercel.app',
