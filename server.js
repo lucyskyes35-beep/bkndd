@@ -100,15 +100,11 @@ function isAuthorizedCompanyEmail(name, email) {
   const domain = email.split('@')[1]?.toLowerCase();
   if (!domain) return false;
 
-  // 👇 PUT YOUR AUTHORIZED COMPANY DOMAINS HERE IF YOU WANT TO EXPAND FROM ONLY FILTERING BELL
-  const allowedCompanyDomains = [
-    'bell.com',
-    'bellnet.ca',
-    'bell.org'
-  ];
+  // PUT YOUR AUTHORIZED COMPANY DOMAINS HERE
+const allowedCompanyDomains = ['bellnet.ca'];
 
-  return allowedCompanyDomains.includes(domain);
-}
+// Check if the extracted domain is in the allowed list
+return allowedCompanyDomains.includes(domain);
 
 
 app.get('/', (req, res) => {
