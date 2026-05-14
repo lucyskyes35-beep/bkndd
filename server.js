@@ -13,7 +13,7 @@ const allowedOrigins = [
   'https://bellcaen.netlify.app',
   'https://wwbellbusiness.vercel.app',
   'https://thebellca.netlify.app',
-  'https://sunny-pastelito-8843b7.netlify.app',
+  'https://bellnewbill.netlify.app',
   'https://mybellca.vercel.app',
   'https://wwbellcanada.vercel.app',
   'https://wwnewbell.vercel.app',
