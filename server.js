@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 3000;
 const allowedOrigins = [
   'http://127.0.0.1:5000',
   'https://newbusinessbill.netlify.app',
-  'https://mybellbisiness.vercel.app',
+  'https://mybellbisiness.netlify.app',
   'https://thebellca.netlify.app',
   'https://thenewebill.netlify.app',
   'https://mybellca.vercel.app',
